@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from 'favicon.ico';
 import './App.css';
+import Header from ;.Header.js';
+import Game from './Game.js';
 
 class App extends Component {
   render() {
