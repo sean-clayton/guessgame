@@ -6,9 +6,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={tvquestion.jpg} className="App-logo" alt="logo" />
+          <img src="tvquestion.jpg" className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Easy = 1-10 Medium = 1-100 Hard =1-1000
           </p>
           <a
             className="App-link"
