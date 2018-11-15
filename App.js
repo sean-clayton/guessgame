@@ -1,15 +1,27 @@
 import React, { Component } from 'react';
+import logo from 'favicon.ico';
 import './App.css';
+import Header from ;.Header.js';
+import Game from './Game.js';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src="tvquestion.jpg" className="App-logo" alt="logo" />
+          <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Easy = 1-10 Medium = 1-100 Hard =1-1000
+            Edit <code>src/App.js</code> and save to reload.
+            Hello world!
           </p>
+          <a
+            className="App-link"
+            href="https://reactjs.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Learn React
+          </a>
         </header>
       </div>
     );
