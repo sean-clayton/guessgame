@@ -1,3 +1,25 @@
+Greetings-
+
+This is my third extensive try to get this project to properly show my updated files when it runs. It keeps defaulting to the base server and I do not know what I am overlooking. 
+
+Last semsester in front end development I got stuck on the Java Script portion because I placed the .js file as a <link rel> instead of a <script src> and I lost hours of work because I kept writing java script code but nothing was changing.  I believe that I am living in that world again and I can not find the source of my problem.  
+  
+My project is not stylized properly I am certain because I can not see it.  I am sorry.  
+I can guarantee I did learn this....
+I can start a create-react-app.  
+I can get the files
+I can commit them to a repository.
+I can commit my updated files.
+I can not get my updated file folders to run properly if I have used my Atom editor.
+I did try cleaning my cache.
+If you get the app to work properly may I please know what you did.  
+I would really like to figure this out.  I have wasting so much time doing it wrong it would be really helpful to know what I am not doing right so I may learn.
+I started off wrong and I have not been able to fix it.  I tried at first to deconstruct and then reconstruct an app that was designed with the express intent for beginners to learn. All I learned is that I should have simply used one of the public API's suggested rather than thinking Douglass Minniaar's blog had the answers to my gaps in knowledge. My life would have been a million times easier.  If you want to see what I was trying to expand on here is his example: http://react-masterminds.drminnaar.me/
+
+I did complete the other requirements of the class and I hope this does not fail me.  If I had time to start from scratch I am certain I would be able to fix this but alas I do not have that time.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
